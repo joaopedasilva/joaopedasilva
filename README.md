@@ -10,3 +10,7 @@ Atualmente focado na programação front-end, desenvolvendo um projeto pessoal, 
 ![HTML](https://img.shields.io/badge/-HTML-e34f26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572b6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
+
+---
+
+Para entrar em contato comigo pode usar o email **jpevangelistadasilva@outlook.com** e também tem o [meu LinkedIn](https://www.linkedin.com/in/joao-pedro-evangelista-da-silva/)
