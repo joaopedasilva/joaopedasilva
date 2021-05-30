@@ -7,9 +7,11 @@ Estudo tecnologia da informação e desenvolvimento de software de maneira autod
 Atualmente focado na programação front-end, desenvolvendo um projeto pessoal, onde estou adquirindo conhecimento sobre SPA, posicionamento de elementos, layout e responsividade utilizando HTML, CSS e JavaScript e também estudando a biblioteca React. 
 
 ## Tecnologias
-![HTML](https://img.shields.io/badge/-HTML-e34f26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572b6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML-e34f26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572b6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232a?style=flat&logo=react)
 
 ---
 
