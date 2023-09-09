@@ -13,4 +13,4 @@ Estudo programação de desde os 14 anos, hoje tenho 22. Tenho facilidade de apr
 
 ---
 
-Para entrar em contato comigo pode usar o email **jpevangelistadasilva@outlook.com** e também tem o [meu LinkedIn](https://www.linkedin.com/in/joao-pedro-evangelista-da-silva/)
+Para entrar em contato comigo vá no [meu LinkedIn](https://www.linkedin.com/in/joao-pedro-evangelista-da-silva/)
