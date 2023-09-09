@@ -10,7 +10,6 @@ Estudo programação de desde os 14 anos, hoje tenho 22. Tenho facilidade de apr
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232a?style=for-the-badge&logo=react)
-![Sass](https://img.shields.io/badge/-Sass-cc6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ---
 
