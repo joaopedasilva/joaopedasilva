@@ -11,4 +11,4 @@
 
 ---
 
-Contato [meu LinkedIn](https://www.linkedin.com/in/joaopedroevangelistadasilva/)
+Contato [LinkedIn](https://www.linkedin.com/in/joaopedroevangelistadasilva/)
